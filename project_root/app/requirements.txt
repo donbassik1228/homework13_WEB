@@ -1,0 +1,12 @@
+fastapi
+sqlalchemy
+psycopg2
+pydantic
+jose
+passlib
+email-validator
+sphinx
+slowapi
+uvicorn
+cloudinary
+pytest
